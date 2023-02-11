@@ -6,7 +6,7 @@
 #include <mutex>
 #include <memory>
 #include "TrafficObject.h"
-#include "TrafficLght.h"
+#include "TrafficLight.h"
 
 // forward declarations to avoid include cycle
 class Street;
